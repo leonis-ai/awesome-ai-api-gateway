@@ -145,6 +145,11 @@ New-API / Sub2API 账号聚合管理器。多站点余额与用量看板、自�
 
 成本计算与缓存经济学，附可运行的计算器脚本。
 
+### [SandBase CLI](https://github.com/sandbaseai/cli)
+![Stars](https://img.shields.io/github/stars/sandbaseai/cli?style=flat-square&label=%E2%98%85) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+Apache-2.0 命令行工具，通过本地 MCP 桥接为 25 个 AI 客户端提供统一的模型发现与调用入口，覆盖 2,000+ 个 AI 模型和 API。
+
 ### [claude-code-guide](https://github.com/leonis-ai/claude-code-guide) · [codex-cli-guide](https://github.com/leonis-ai/codex-cli-guide) · [gemini-api-guide](https://github.com/leonis-ai/gemini-api-guide)
 
 三大 CLI / API 的中文配置手册。
