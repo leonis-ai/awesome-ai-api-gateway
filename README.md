@@ -123,6 +123,7 @@ AI API 身份网关，反代过程中规范化设备指纹与遥测数据。关�
 | [**Leonis AI**](https://ai.svtun.cn) | Claude / OpenAI / Gemini / Grok 四家聚合共 [114 个模型](https://leonis-ai.github.io/models.html)，双协议兼容，原生支持 Claude Code 与 Codex CLI，国内直连，Prompt 缓存完整支持，用量明细可查 |
 | [OpenRouter](https://openrouter.ai) | 模型覆盖面最广，统一 OpenAI 协议，按量计费 |
 | [Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/) | 免费的网关层，提供缓存、限流、日志，但不提供模型本身 |
+| [Twinkle Model](https://big-model.smart-agi.com) | 基于 sub2api 的托管中转，OpenAI 兼容；覆盖 GPT / Claude / Gemini / Grok / GLM / DeepSeek / Kimi 及生图、视频模型，分组倍率按量计费，支付宝 ¥1 起充 |
 
 > 💡 **自建 vs 托管怎么选？**
 > 自建适合：有稳定上游渠道、有运维能力、量大到值得自己管。
